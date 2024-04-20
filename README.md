@@ -27,7 +27,7 @@ Após clonar o projeto, no terminal, acesse a pasta da api `\..\gerenciador-tare
 
     $ npm install
 
-Após a instalação das depencias, deixe a API rodando com o comando abaixo:
+Após a instalação das dependências, deixe a API rodando com o comando abaixo:
 
     $ npm start
 
@@ -47,6 +47,6 @@ Com o `http-server` instalado, basta acessar através do terminal (em um termina
 
 Assim você poderá acessar projeto no navegador no através da url `http://localhost:8080/`
 
-se tudo estiver correto ao acessar o sistema você deveá ver uma tela como essa
+Se tudo estiver correto ao acessar o sistema você deverá ver uma tela como essa
 
 ![alt text](image.png)
