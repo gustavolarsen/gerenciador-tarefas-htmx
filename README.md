@@ -2,6 +2,19 @@
 
 Sistema de gestão de tarefas desenvolvido para curso de HTMX
 
+## Tecnologias utilziadas
+
+- [NodeJS](https://.nodejs.org)
+- Back-end
+  - express
+  - cors
+  - sqlite
+  - sequelize
+- Front-end
+  - [htmx](https://htmx.org/)
+  - http-server
+  - [bootstrap](https://getbootstrap.com/)
+
 ## Como rodar o projeto localmente
 
 ### Pré-requisistos
