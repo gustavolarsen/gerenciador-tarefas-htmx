@@ -2,7 +2,7 @@
 
 Sistema de gestão de tarefas desenvolvido para curso de HTMX
 
-## Tecnologias utilziadas
+## Tecnologias utilizadas
 
 - [NodeJS](https://.nodejs.org)
 - Back-end
